@@ -30,8 +30,8 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-my_hash["muskets"] = "2"
-my_hash["gun powder"] = '4'
+shipping_manifest["muskets"] = "2"
+shipping_manifest["gun powder"] = '4'
 
 
   # add 4 gun powder to the shipping_manifest hash below
@@ -39,5 +39,5 @@ my_hash["gun powder"] = '4'
 
 
   # return the shipping_manifest hash below
-my_hash
+shipping_manifest
 end
