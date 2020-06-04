@@ -39,5 +39,5 @@ my_hash["gun powder"] = '4'
 
 
   # return the shipping_manifest hash below
-
+my_hash
 end
