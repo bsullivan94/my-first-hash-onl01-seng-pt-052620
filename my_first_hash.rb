@@ -30,7 +30,8 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-def
+my_hash["muskets"] = "2"
+my_hash["gun powder"] = '4'
 
 
   # add 4 gun powder to the shipping_manifest hash below
